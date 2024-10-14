@@ -1,3 +1,4 @@
+<h1 align="center">💫 About Me:</h1>
 <h3 align="center">Developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=certifieduhq&label=Profile%20views&color=877f7d&style=flat" alt="certifieduhq" /> </p>
